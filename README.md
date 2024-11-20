@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Welcome to my GitHub 🙋‍♂️</p>
+<p align="left">Welcome to my GitHub 🙋‍♂️
+  I'm a Computer Science student at CESAR School. I'm starting my journey in programming and enjoy exploring new ideas and learning through challenges. I'm interested in software development and aim to grow in the field by contributing to meaningful and impactful projects.
+</p>
 
 ###
 
