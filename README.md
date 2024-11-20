@@ -1,23 +1,19 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Caio G. Rocha
 
-###
+---
 
-<p align="left">Welcome to my GitHub 🙋‍♂️
-</p>
+Hi, I'm Caio, a Computer Science student at CESAR School. I'm starting my journey in programming and enjoy exploring new ideas and learning through challenges. I'm interested in software development and aim to grow in the field by contributing to meaningful and impactful projects.
 
-###
+### Connect with me
 
-<h2 align="left">About me</h2>
+---
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/caioguimaraesr/)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=ceff48&color:FFF)]()
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ceff48&color:FFF)]()
 
-###
+### Techs
 
-<p align="left">👤 Caio Guimarães Rocha I 19 anos<br>🎓Computer Science Student at @ CESAR School<br>📚 1º Período</p>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -31,4 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
+### Status Github
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioguimaraesr&hidetitle=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ceff48&text_color=FFF&border_radius=3&border_color=ceff48&icon_color=ceff48&theme=jolly)
