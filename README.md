@@ -24,6 +24,8 @@ Hi, I'm Caio, a Computer Science student at CESAR School. I'm starting my journe
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="django logo"  />
+  <img width="12" />
 </div>
 
 ### Status Github
