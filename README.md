@@ -1,35 +1,39 @@
-# Caio G. Rocha
+# Hello, I'm Caio G. Rocha! 👋
 
----
+![GitHub followers](https://img.shields.io/github/followers/caioguimaraesr?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/caioguimaraesr?style=social)
 
-Hi, I'm Caio, a Computer Science student at CESAR School. I'm starting my journey in programming and enjoy exploring new ideas and learning through challenges. I'm interested in software development and aim to grow in the field by contributing to meaningful and impactful projects.
+## About Me
 
-### Connect with me
+I'm a passionate developer who loves coding and learning new technologies. I enjoy working projects and collaborating with other developers.
 
----
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ceff48&color:FFF)](https://www.linkedin.com/in/caioguimaraesr/)
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=ceff48&color:FFF)]()
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=ceff48&color:FFF)]()
-
-### Techs
-
----
+## Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="django logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-### Status Github
+## GitHub Stats
 
----
+![Caioguimaraesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioguimaraesr&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioguimaraesr&hidetitle=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=ceff48&text_color=FFF&border_radius=3&border_color=ceff48&icon_color=ceff48&theme=jolly)
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caioguimaraesr&layout=compact&theme=radical)
+
+## GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=caioguimaraesr&theme=onedark)
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioguimaraesr)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/caioguimaraesrx)
