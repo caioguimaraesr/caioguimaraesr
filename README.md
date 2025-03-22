@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" height="250" />
+   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" height="200" />
   <div align="left">
       <h4 align="left">My stack:</h4>
        <img align="center" src="https://img.shields.io/badge/Python-B2BB5B?style=for-the-badge&logo=python&logoColor=white" />
