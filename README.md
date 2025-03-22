@@ -55,7 +55,7 @@
 <br>
 
 <div align="center"> 
-    <img height="153" src="https://github-readme-stats.vercel.app/api?username=caioguimaraesr&show_icons=true&bg_color=B2BB5B&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
+    <img height="130" src="https://github-readme-stats.vercel.app/api?username=caioguimaraesr&show_icons=true&bg_color=B2BB5B&hide_border=true&title_color=fff&text_color=fff&icon_color=fff" />
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" height="100"/>
-    <img height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioguimaraesr&layout=compact&hide_progress=true&bg_color=B2BB5B&hide_border=true&title_color=fff&text_color=fff&icon_color=B2BB5B"/>
+    <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioguimaraesr&layout=compact&hide_progress=true&bg_color=B2BB5B&hide_border=true&title_color=fff&text_color=fff&icon_color=B2BB5B"/>
 </div>
