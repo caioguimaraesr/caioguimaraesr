@@ -26,7 +26,6 @@
 </div>
 
 <div align="center">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Man Technologist Medium-Light Skin Tone" height="250" />
   <div align="left">
       <h4 align="left">My stack:</h4>
        <img align="center" src="https://img.shields.io/badge/Python-B2BB5B?style=for-the-badge&logo=python&logoColor=white" />
