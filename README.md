@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2800&pause=4000&color=B2BB5B&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Caio+G.+Rocha+👽" alt="Hi there! I'm Paulo Rosado 🍜" width="100%" align="center" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2800&pause=4000&color=B2BB5B&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Caio+G.+Rocha+👽" alt="Hi there! I'm Caio G. Rocha 👽" width="100%" align="center" />
 
 <br>
 
