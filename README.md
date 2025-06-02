@@ -6,7 +6,7 @@
    <img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" height="250" />
   <div align="left">
     <p>💻 | Software Devoloper | Computer Science Student at CESAR School</p>
-    <p>🙋‍♂️ | Passionate about technology, with an interest in innovation, problem-solving, and positive social impact.</p>
+    <p>🙋‍♂️ | Passionate about technology, with an interest in innovation, problem-solving, cybersecurity, QA Enginner, and positive social impact.</p>
     <div>
       <h4 align="left">Follow me:</h4>
       <a align="left" href="https://www.linkedin.com/in/caioguimaraesr/">
@@ -19,9 +19,9 @@
     <div>
       <h4 align="left">Current learning:</h4>
       <img src="https://img.shields.io/badge/C-3F523E?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-3F523E?style=for-the-badge&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Selenium-3F523E?style=for-the-badge&logo=selenium&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-3F523E?style=for-the-badge&logo=azure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-3F523E?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SpringBoot-3F523E?style=for-the-badge&logo=springboot&logoColor=white" />  
+      <img src="https://img.shields.io/badge/Angular-3F523E?style=for-the-badge&logo=Angular&logoColor=white" />  
     </div>
 </div>
 
@@ -30,11 +30,12 @@
   <div align="left">
       <h4 align="left">My stack:</h4>
        <img align="center" src="https://img.shields.io/badge/Python-3F523E?style=for-the-badge&logo=python&logoColor=white" />
+       <img align="center" src="https://img.shields.io/badge/C-3F523E?style=for-the-badge&logo=C&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/Django-3F523E?style=for-the-badge&logo=django&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/HTML-3F523E?style=for-the-badge&logo=html5&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/CSS-3F523E?style=for-the-badge&logo=css3&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/GIT-3F523E?style=for-the-badge&logo=git&logoColor=white" />
-        <img align="center" src="https://img.shields.io/badge/SQLite-3F523E?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img align="center" src="https://img.shields.io/badge/Cypress-3F523E?style=for-the-badge&logo=Cypress&logoColor=white"/>
   </div>  
   <br>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="560">
