@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&duration=2800&pause=4000&color=7ACF76&center=true&vCenter=true&width=940&lines=Hi there!+I'm++Caio+G.+Rocha+👽" alt="Hi there! I'm Caio G. Rocha 👽" width="100%" align="center" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=15F735&background=58FF8C00&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Caio+G.+Rocha+%F0%9F%91%BD)](https://git.io/typing-svg) 
 
 <br>
 
